@@ -76,21 +76,14 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0 150px;
-  
-  
-  
+  margin: 0 150px; 
 }
-
 
 .nav-title {
     color: #4e47ff;
     font-size: 34px;
-    font-weight: 900 
-    
+    font-weight: 900    
 }
-
-
 
 .header-title {
   font-size: 65px;
@@ -108,9 +101,6 @@ nav {
 .title-btn{
     margin-bottom: 152px;
 }
-/* .header-2{
-  margin-bottom: 152px;
-} */
 
 
 /*----- main part----- */
@@ -316,7 +306,6 @@ nav {
 
 .form-section {
   min-width: 497px;
-  background-color: aqua;
 }
 
 .form-group {
@@ -361,7 +350,6 @@ nav {
   border: 1px solid #ccc;
   border-radius: 10px;
   font-size: 20px;
-  /* font-weight: regular; */
   line-height: 150%;
   background-color: rgba(255, 255, 255, 1);
 }
